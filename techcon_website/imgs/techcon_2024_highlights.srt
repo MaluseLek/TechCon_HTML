@@ -1,0 +1,131 @@
+1
+00:00:03,727 --> 00:00:05,968
+you
+
+2
+00:00:15,426 --> 00:00:24,881
+We're here at Radio Tech Con, Radio Tech Con is the UK's annual conference for the audio and radio technology community.
+
+3
+00:00:24,881 --> 00:00:27,286
+The community we have here is so important.
+
+4
+00:00:27,286 --> 00:00:34,359
+It's a really brilliant place to network, meet with colleagues in the UK and from beyond.
+
+5
+00:00:34,359 --> 00:00:37,966
+We share ideas and inspire new projects.
+
+6
+00:00:37,966 --> 00:00:46,014
+The sessions range from everything to do with studio builds, transmission, cyber security, and also all the bits in between.
+
+7
+00:00:49,920 --> 00:00:52,592
+Welcome to TechCon.
+
+8
+00:00:57,602 --> 00:01:01,773
+still want to have gone back to the historical record and pick the things that fit in with their narratives.
+
+9
+00:01:01,773 --> 00:01:03,195
+Something like carbon accounting.
+
+10
+00:01:03,195 --> 00:01:07,502
+Ultimately, collaboration has to be the long-term goal with everything.
+
+11
+00:01:07,502 --> 00:01:10,327
+Also, you're facing the wall, you might want a 180.
+
+12
+00:01:10,327 --> 00:01:10,727
+Oh, hello.
+
+13
+00:01:10,727 --> 00:01:11,454
+Yellow, yeah.
+
+14
+00:01:12,390 --> 00:01:15,535
+What has the transmission adjudicator ever done for me?
+
+15
+00:01:15,535 --> 00:01:22,266
+A lot has probably happened since your radio station very first went on a smart speaker.
+
+16
+00:01:23,461 --> 00:01:34,439
+Going to some of the other kit that you need to run Europe's largest radio station this is the traffic and travel answer phone and it's worked so hard.
+
+17
+00:01:34,439 --> 00:01:39,267
+And my work is basically trying to make speech technologies fair and inclusive.
+
+18
+00:01:39,267 --> 00:01:47,440
+I wanted to create an immersive experience where the audience could lie down and take some time out and be surrounded by sound.
+
+19
+00:01:47,440 --> 00:01:53,749
+When I was there, we had to introduce a big orange light right in front of the presenter to remind them that that fader was open.
+
+20
+00:01:53,749 --> 00:01:55,111
+There will be a quiz at the end.
+
+21
+00:01:55,111 --> 00:01:57,054
+This is the end where there will be a quiz.
+
+22
+00:01:57,054 --> 00:01:57,886
+Hello everyone.
+
+23
+00:02:04,105 --> 00:02:05,066
+Good night from TECCOM.
+
+24
+00:02:05,066 --> 00:02:06,224
+See you next year.
+
+25
+00:02:10,978.0000000000146 --> 00:02:20,600
+Being here is really good, there's a wide range of people all the way from up-sea level executives all the way down to people just starting and it's really good to see a big overview of the industry.
+
+26
+00:02:20,600 --> 00:02:29,037
+I keep coming back to Radiotechcon year after year after year because of the absolute breadth and diversity of the speakers taking to the stage.
+
+27
+00:02:29,037 --> 00:02:36,389
+The people speaking are not only showing me things that I've wandered about, but also things I've never even considered new.
+
+28
+00:02:36,389 --> 00:02:41,016
+The talks I've been lucky enough to have time to listen to after travelling down here have been excellent.
+
+29
+00:02:41,016 --> 00:02:45,143
+And the great thing about this conference is the extent to which people chip in with questions.
+
+30
+00:02:45,143 --> 00:02:47,887
+They want answers to take back to their radio stations.
+
+31
+00:02:47,887 --> 00:02:53,034
+I'll definitely come back again, so I'm looking forward already for the next Radio TechCon.
+
+32
+00:02:53,034 --> 00:02:59,924
+It really is a conference that covers pretty much everything in such a neat little package.
+
+33
+00:02:59,924 --> 00:03:10,198
+It's an absolute highlight of my year.
